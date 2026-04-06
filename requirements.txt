@@ -1,0 +1,7 @@
+cmake
+opencv-python
+face_recognition
+faiss-cpu
+streamlit
+numpy
+pillow
